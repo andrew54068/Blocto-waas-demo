@@ -1,0 +1,19 @@
+{
+  "name": "blocto-waas-demo",
+  "version": "1.0.0",
+  "description": "A demo project for Wallet as a Service from Blocto",
+  "scripts": {
+    "create-account": "ts-node src/create-account.ts",
+    "get-account": "ts-node src/get-account.ts",
+    "sign-transaction": "ts-node src/sign-transaction.ts",
+    "list-transactions": "ts-node src/list-transactions.ts",
+    "get-transaction": "ts-node src/get-transaction.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.6.0",
+    "dotenv": "^16.3.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}

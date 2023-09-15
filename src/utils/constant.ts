@@ -1,0 +1,1 @@
+export const domain = "https://waas-dev.blocto.one"
