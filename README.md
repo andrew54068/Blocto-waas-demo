@@ -1,5 +1,5 @@
 # Blocto WaaS Demo
-##### Currently only support Flow
+##### Currently only support Flow, for more details please go to [here](https://blocto-waas.readme.io/reference/onboarding-process)
 
 ### Setup
 
